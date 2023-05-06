@@ -10,11 +10,11 @@ Recommend to use AliyunDrive to download
 
 The following download links use [Alist](https://github.com/alist-org/alist) and use the CloudFlare proxy
 
-AliyunDrive:[Download](https://alist.redsnail.eu.org/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/Share/MC%E6%95%B4%E5%90%88%E5%8C%85/latest.zip)
+AliyunDrive:[Download](https://alist.redsnailmc.top/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/Share/MC%E6%95%B4%E5%90%88%E5%8C%85/latest.zip)
 
-OneDrive:[Download](https://alist.redsnail.eu.org/d/Od-RedSnailMC/MC%E6%95%B4%E5%90%88%E5%8C%85/latest.zip)
+OneDrive:[Download](https://alist.redsnailmc.top/d/Od-RedSnailMC/MC%E6%95%B4%E5%90%88%E5%8C%85/latest.zip)
 
-CloudFlare (not recommended):[Download](https://alist.redsnail.eu.org/d/cloudreve/MC%E6%95%B4%E5%90%88%E5%8C%85/latest.zip)
+CloudFlare (not recommended):[Download](https://alist.redsnailmc.top/d/cloudreve/MC%E6%95%B4%E5%90%88%E5%8C%85/latest.zip)
 
 # Download (using another network drive)
 
